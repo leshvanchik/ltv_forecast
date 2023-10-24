@@ -9,6 +9,6 @@
 ### Фактический среднекогортный LTV
 ![Фактический среднекогортный LTV](https://github.com/leshvanchik/ltv_forecast/blob/95b6645f11b6fa49c07befa44058348a8cf418d2/table_mini.png)
 ### Прогнозное значение LTV на 90-й день
-![Прогнозное значение LTV](https://github.com/leshvanchik/ltv_forecast/blob/95b6645f11b6fa49c07befa44058348a8cf418d2/ltv_forecast.png)
+![Прогнозное значение LTV](https://github.com/leshvanchik/ltv_forecast/blob/d3cf844840259907b448d5704ae8e64dc819ec15/ltv_forecast.png)
 
 Источник данных: devtodev.com
